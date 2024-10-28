@@ -8,4 +8,4 @@ for i in range(num):
     sum+=numbers
 
 avg=sum/num
-print("Average of ", num, " numbers is " , avg)
+print("Average of ", num, " numbers is " , avg) 
